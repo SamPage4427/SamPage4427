@@ -1,11 +1,14 @@
 <h1 align="center">Hi, My Name is Sam Page!</h1>
 <h2 align="center">🔭 I am currently learning to be a Software Engineer through the Practicum Coding Bootcamp.</h2>
 
-### I currently have several projects in my portfolio, with more to come! Some of my projects include:
-* A Front-End webite for posting photos for different users to view and like, that utilizes APIs to handle the likes, when a user wants to delete their post (checks to see if the user id matches the id used to post the image and allows deletion only if they match)
-* A Front-End React website for determining what to wear depending on the current weather
+<h3 align="center"> I currently have several projects in my portfolio, with more to come! Some of my projects include:</h3>
+- A Front-End webite for posting photos for different users to view and like, that utilizes APIs to handle the likes, when a user wants to delete their post (checks to see if the user id matches the id used to post the image and allows deletion only if they match)
+- A Front-End React website for determining what to wear depending on the current weather
 
-### The best way to reach me is by [email](sampage4427@gmail.com) or by contacting me on [LinkedIn](https://www.linkedin.com/in/samuel-page-b07722137/)! I promise to respond within a couple of days! If you do not receive a response via email then feel free to try LinkedIn or vice versa!
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left"><a href="sampage4427@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="60" height="60" /></a> <a href"https://www.linkedin.com/in/samuel-page-b07722137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="60" height="60"/></p>
+
+<h3 align="left">Acheivements:</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" /></a></p>
