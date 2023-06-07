@@ -6,7 +6,7 @@
 - A Front-End React website for determining what to wear depending on the current weather
 
 <h3 align="left">📫 How to reach me:</h3>
-<p align="left"><a href="sampage4427@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="60" height="60" /></a> <a href"https://www.linkedin.com/in/samuel-page-b07722137/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="60" height="60"/></p>
+<p align="left"><a href="sampage4427@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="60" height="60" /></a> <a href"https://www.linkedin.com/in/samuel-page-b07722137/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="60" height="60"/></p>
 
 <h3 align="left">Acheivements:</h3>
 
