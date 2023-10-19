@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampage4427&label=Profile%20views&color=0e75b6&style=flat" alt="sampage4427" /> </p>
 
-<h2 align="center">I am currently trying to become a Software Engineer through the Practicum Coding Bootcamp.</h2>
+<h2 align="center">I am currently trying to become a Software Engineer through the TripleTen Coding Bootcamp.</h2>
 
 <h3 align="center">👨‍💻 My projects are available on my portfolio at www.samjpage.dev</h3>
 <h3 align="center"> I currently have several projects in my portfolio, with more to come! Some of my projects include:</h3>
