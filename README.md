@@ -16,7 +16,7 @@ In December 2022, I started my software journey at TripleTen's Software Engineer
 <h3 align="left">Work</h3>
 
 - 🔭 I am currently working on **multiple projects to expand my portfolio and experience**
-- 🌱 I am currently learning **Node.js, Express.js and MongoDB**
+- 🌱 I am currently learning **TypeScript, Python, Apollo GraphQL**
 - 📫 How to reach me **sampage4427@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
