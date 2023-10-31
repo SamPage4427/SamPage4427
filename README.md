@@ -25,9 +25,10 @@ In December 2022, I started my software journey at TripleTen's Software Engineer
 </p>
 
 <h3 align="left">Acheivements:</h3>
-<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/HTML_CSS_Developer_1674816225.png" alt="html-css developer" width= "60%" />
-<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Front-End-Engineer_1674816738.png" alt="front-end developer" width="60%" />
+<img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" alt="full-stack developer" width="60%" />
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" alt="react developer" width="60%" />
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Front-End-Engineer_1674816738.png" alt="front-end developer" width="60%" />
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/HTML_CSS_Developer_1674816225.png" alt="html-css developer" width= "60%" />
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="40" height="40"/></a></p>
