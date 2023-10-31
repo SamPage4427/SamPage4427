@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampage4427&label=Profile%20views&color=0e75b6&style=flat" alt="sampage4427" /> </p>
 
-<h2 align="center">I am currently trying to become a Software Engineer through the TripleTen Coding Bootcamp.</h2>
+<h2 align="center">I am a Front-End Developer with skills in JavaScript, React, HTML, CSS, Node and Express. <br />
+In December 2022, I started my software journey at TripleTen's Software Engineer online program. During my learning journey, I created several projects and assisted other students with questions related to our course assignments (also known as sprints) and their projects. The program has an extensive curriculum of Software Engineering technologies such as HTML5, CSS3, BEM, JavaScript, DOM, React, Node.js, Express.js, Mongoose, MongoDB, Git, Figma and more.
+</h2>
 
 <h3 align="center">👨‍💻 My projects are available on my portfolio at www.samjpage.dev</h3>
 <h3 align="center"> I currently have several projects in my portfolio, with more to come! Some of my projects include:</h3>
