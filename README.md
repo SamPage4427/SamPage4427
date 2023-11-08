@@ -1,4 +1,4 @@
-<h1 align="center" font-size=12px >Hi, My Name is Sam Page!</h1>
+<h1 align="center" font-size=6px >Hi, My Name is Sam Page!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampage4427&label=Profile%20views&color=0e75b6&style=flat" alt="sampage4427" /> </p>
 
