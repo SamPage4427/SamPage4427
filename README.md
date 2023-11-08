@@ -7,7 +7,7 @@ In December 2022, I started my software journey at TripleTen's Software Engineer
 </h2>
 
 <h3 align="center">👨‍💻 My projects are available on my portfolio at www.samjpage.dev</h3>
-<h3 align="center"> I currently have several projects in my portfolio, with more to come! Some of my projects include:</h3>
+<p align="center"> I currently have several projects in my portfolio, with more to come! Some of my projects include:</h3>
 <ul>
   <li>A Front-End webite for posting photos for different users to view and like, that utilizes APIs to handle the likes, when a user wants to delete their post (checks to see if the user id matches the id used to post the image and allows deletion only if they match)</li>
   <li> A Front-End React website for determining what to wear depending on the current weather</li>
