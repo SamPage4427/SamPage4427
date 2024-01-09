@@ -26,7 +26,7 @@ In December 2022, I started my software journey at TripleTen's Software Engineer
 </p>
 
 <h3 align="left">Acheivements:</h3>
-<img src="https://media.licdn.com/dms/image/D5622AQH-5iDCmpi-9A/feedshare-shrink_2048_1536/0/1699395280929?e=1702512000&v=beta&t=k2Awa-5cvdM2HG51ag0heaR8PxMmyP-cYObSMEL8Fpo" alt="software certification" width="60%" height="60%" />
+<img src="https://media.licdn.com/dms/image/D5622AQH-5iDCmpi-9A/feedshare-shrink_2048_1536/0/1699395280929?e=1707955200&v=beta&t=aArWa31qt5sS6_-iycyrpvWKjRpgbO-nwkeBvdzzWkU" alt="software certification" width="60%" height="60%" />
 <img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" alt="full-stack developer" width="60%" />
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" alt="react developer" width="60%" />
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Front-End-Engineer_1674816738.png" alt="front-end developer" width="60%" />
