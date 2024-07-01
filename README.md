@@ -26,7 +26,9 @@ In December 2022, I started my software journey at TripleTen's Software Engineer
 </p>
 
 <h3 align="left">Acheivements:</h3>
-<img src="https://media.licdn.com/dms/image/D5622AQH-5iDCmpi-9A/feedshare-shrink_2048_1536/0/1699395280929?e=1714608000&v=beta&t=Zj-85efvhLwK8bGlxo3u9WIItosvTMDMc2z7qpLufhk" alt="software certification" width="60%" height="60%" />
+<img src="https://media.licdn.com/dms/image/D5622AQGHBZbya_koKA/feedshare-shrink_2048_1536/0/1711501095330?e=1722470400&v=beta&t=R4kasHGT9Rwrq5Uo8GqqzoyB419s8kDCxrMqKKssLfc" alt="certificate of completion 2" width="60%" height="60%" /> 
+<img src="https://media.licdn.com/dms/image/D5622AQFjzqu7CCMSYQ/feedshare-shrink_2048_1536/0/1711501095303?e=1722470400&v=beta&t=rqte61_DebZvK0p_qW9eGLvkHT3otbPPckI9KvDdGkQ" alt="certificate of completion 1" width="60%" height="60%" /> 
+<img src="https://media.licdn.com/dms/image/D5622AQH-5iDCmpi-9A/feedshare-shrink_2048_1536/0/1699395280929?e=1722470400&v=beta&t=NitmDWkcY-icoJ121JPo1p3M_PMA6K4sASO7GW-_j6A" alt="software certification" width="60%" height="60%" />
 <img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" alt="full-stack developer" width="60%" />
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" alt="react developer" width="60%" />
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Front-End-Engineer_1674816738.png" alt="front-end developer" width="60%" />
